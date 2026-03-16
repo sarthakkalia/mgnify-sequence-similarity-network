@@ -1,0 +1,81 @@
+MGYP000225593703	2	root:Host-associated:Human:Digestive system
+MGYP000225593703	5	root:Host-associated:Human:Digestive system:Hindgut
+MGYP000225593703	12	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000225593703	68	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000225593703	1	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000225593703	9	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000229914253	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000229914253	1	root:Mixed
+MGYP000266133040	4	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000266133040	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000341290056	2	root:Environmental:Aquatic:Marine
+MGYP000341290056	22	root:Environmental:Aquatic:Marine:Oceanic
+MGYP000391159989	1	root:Host-associated:Human:Digestive system
+MGYP000391159989	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000391159989	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000391159989	1	root:Mixed
+MGYP000460019734	4	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000460019734	2	root:Engineered:Wastewater
+MGYP000460019734	2	root:Engineered:Wastewater:Water and sludge
+MGYP000460019734	27	root:Host-associated:Human
+MGYP000460019734	251	root:Host-associated:Human:Digestive system
+MGYP000460019734	5	root:Host-associated:Human:Digestive system:Hindgut
+MGYP000460019734	92	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000460019734	759	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000460019734	5	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000460019734	55	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000460019734	1	root:Mixed
+MGYP000466448910	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000495477914	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000514416937	1	root:Host-associated:Human:Digestive system
+MGYP000514416937	1	root:Host-associated:Human:Digestive system:Large intestine:Sigmoid colon
+MGYP000514416937	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000542625796	9	root:Host-associated:Human:Digestive system
+MGYP000542625796	4	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000542625796	6	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000542625796	1	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000598668074	1	root:Host-associated:Human:Digestive system
+MGYP000598668074	2	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000598668074	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000613380604	2	root:Engineered:Bioremediation:Terephthalate:Wastewater
+MGYP000613380604	1	root:Engineered:Wastewater:Water and sludge
+MGYP000613380604	10	root:Host-associated:Human
+MGYP000613380604	54	root:Host-associated:Human:Digestive system
+MGYP000613380604	25	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000613380604	273	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000613380604	6	root:Host-associated:Mammals:Digestive system:Fecal
+MGYP000613380604	25	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP000613380604	1	root:Mixed
+MGYP000613406365	1	root:Host-associated:Human:Digestive system
+MGYP000613406365	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000613406365	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000644685081	2	root:Host-associated:Human:Digestive system
+MGYP000644685081	1	root:Host-associated:Human:Digestive system:Large intestine
+MGYP000644685081	2	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP000763240148	3	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001092124783	1	root:Environmental:Aquatic:Marine
+MGYP001092124783	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP001512476303	1	root:Host-associated:Human:Digestive system
+MGYP001512476303	5	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP001585115100	3	root:Environmental:Aquatic:Freshwater:Groundwater
+MGYP001608345097	1	root:Engineered:Food production:Dairy products
+MGYP001608345097	1	root:Engineered:Wastewater
+MGYP001608345097	5	root:Engineered:Wastewater:Water and sludge
+MGYP001608345097	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP002237682679	1	root:Host-associated:Human:Digestive system
+MGYP002237682679	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP002517051456	7	root:Host-associated:Mammals:Digestive system
+MGYP002590014847	1	root:Host-associated:Birds:Digestive system:Digestive tube
+MGYP002590014847	1	root:Host-associated:Human:Digestive system:Large intestine:Fecal
+MGYP003196378508	2	root:Host-associated:Mammals:Digestive system:Large intestine:Fecal
+MGYP003350498811	2	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003961346847	2	root:Engineered:Lab enrichment:Defined media:Marine media
+MGYP003961346847	2	root:Environmental:Aquatic:Estuary
+MGYP003961346847	12	root:Environmental:Aquatic:Marine
+MGYP003961346847	36	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP003961346847	3	root:Environmental:Aquatic:Marine:Marginal Sea
+MGYP003961346847	9	root:Environmental:Aquatic:Marine:Oceanic
+MGYP003961346847	3	root:Environmental:Aquatic:Marine:Pelagic
+MGYP003961346847	2	root:Environmental:Aquatic:Marine:Sediment
+MGYP005670406095	1	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+MGYP005670406095	1	root:Environmental:Aquatic:Marine:Oceanic
