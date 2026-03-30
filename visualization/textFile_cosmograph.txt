@@ -1,1 +1,2 @@
-https://run.cosmograph.app/public/b846ab38-b25d-420b-9d53-cf454641fc42
+SSN using MMseqs2: https://run.cosmograph.app/public/b846ab38-b25d-420b-9d53-cf454641fc42
+Hybrid SSN : https://run.cosmograph.app/project/86a6ac5b-fb80-4338-bcea-ff4bc94daec9
