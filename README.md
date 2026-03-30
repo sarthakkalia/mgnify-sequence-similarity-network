@@ -175,6 +175,6 @@ Pipeline:
 ## Author
 
 **Sarthak Kalia**  
-B.Tech Computer Science & Engineering (AI & ML), Sambalpur University
+B.Tech Computer Science & Engineering (AI & ML), Sambalpur University <br>
+AI/ML Engineer <br>
 GitHub: [@sarthakkalia](https://github.com/sarthakkalia)
-```
